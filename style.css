@@ -1,4 +1,4 @@
-ul {
+.navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -7,11 +7,11 @@ ul {
   border-radius: 16px;
 }
 
-ul li {
+.navbar li {
   float: right;
 }
 
-ul li a {
+.navbar li a {
   display: block;
   color: #4F6035;
   text-align: center;
@@ -19,7 +19,39 @@ ul li a {
   text-decoration: none;
 }
 
-ul li a:hover {
-    color: #e7e57c;
-  
+.navbar li a:hover {
+    color: #4F603580;
+}
+
+#list{
+    background-color: #4F603530;
+    border-radius: 16px;
+    margin: 15px;
+    padding: 15px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.about{
+    background-color: #F0BEB750; 
+    border-radius: 16px;
+    margin: 15px;
+    padding: 15px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.why{
+    background-color: #4F603550; 
+    border-radius: 16px;
+    margin: 15px;
+    padding: 15px;
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.contact{
+   background-color: #F0BEB750; 
+   border-radius: 16px;
+   margin: 15px;
+   margin-top: 30px;
+   padding-top: 30px;
+   padding: 15px;
 }

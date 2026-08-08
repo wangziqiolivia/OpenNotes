@@ -55,3 +55,18 @@
    padding-top: 30px;
    padding: 15px;
 }
+iframe {
+    width: 100vw;
+    height:500px;
+    border: none;
+    display: block;
+}
+
+.matchpage{
+    background-color: #F0BEB750; 
+    border-radius: 16px;
+    margin: 15px;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding: 15px;
+}
